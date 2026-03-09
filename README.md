@@ -7,8 +7,7 @@ https://eventscheduler-81mw.onrender.com
 ---
 
 ## 📸 Preview
-
-<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/97c81290-d2b3-4761-85b4-4fd3c590f751" />
+<img width="1920" height="906" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/c225cbf3-1bb6-4f0e-b9ce-1fbdb06649a5" />
 
 ---
 
